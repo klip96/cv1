@@ -1,4 +1,4 @@
-# Charnauchyts Dzmitry ![myPhoto](/img/myPhoto.jpeg)
+# Charnauchyts Dzmitry ![myPhoto](/rsschool-cv/img/myPhoto240.jpeg)
 ## __Сontacts__:
     * Number - +375292337486
     * Location - Minsk, Belarus
