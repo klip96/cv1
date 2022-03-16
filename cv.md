@@ -1,4 +1,4 @@
-# Charnauchyts Dzmitry ![myPhoto](/img/myPhoto240)
+# Charnauchyts Dzmitry ![myPhoto](/img/myPhoto.jpeg)
 ## __Сontacts__:
     * Number - +375292337486
     * Location - Minsk, Belarus
