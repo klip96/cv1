@@ -6,11 +6,18 @@ body {
     max-width: 1200px;
     margin: 0 auto;
 }
-.photoMe {
+.myPhoto {
     width: 132px;
     height: 132px;
     border-radius: 50%;
+    margin: 0 auto;
+    overflow: hidden;
     border: 5px solid #fff;
     box-shadow: 2px 1px 5px #999999; /* Радиус скругления */    
     display: flex;
+}
+.photoMe{
+    width: auto;
+    height: 100%;
+    margin: 0 auto;
 }
