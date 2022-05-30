@@ -1,8 +1,16 @@
 body {
     background-color: rgb(255, 235, 217);
 }
+.wrapper{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 .photoMe {
-    border-radius: 100px; /* Радиус скругления */    
-    position: relative;
-    right: -300px;
+    width: 132px;
+    height: 132px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 2px 1px 5px #999999; /* Радиус скругления */    
+    display: flex;
 }
