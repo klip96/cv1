@@ -59,7 +59,7 @@ main{
     margin: 0 auto;
 }
 .contactsInfo:hover{
-    background: rgba(80, 48, 90, 0.986);
+    background: rgba(3, 2, 3, 0.911);
 }
 .myInfo{
     display: flex;
