@@ -144,7 +144,7 @@ main{
     
 }
 .hobbies{
-    width: 88px;
+    width: 95px;
     height: 32px;
     background: rgba(196, 196, 196, 0.35);
     border-radius: 10px;
@@ -208,6 +208,7 @@ main{
     text-align: center;
     margin: 0 auto;
     margin-left: 10px; 
+    padding-top: 5px;
 }
 .mySkills a{
     width: 141px;
@@ -235,6 +236,7 @@ main{
     text-align: center;
     margin: 0 auto;
     margin-left: 10px; 
+    padding-top: 5px;
 }
 .aboutMe a{
     width: 141px;
@@ -290,6 +292,7 @@ main{
     text-align: center;
     margin: 0 auto;
     margin-left: 10px; 
+    padding-top: 5px;
 }
 .myCodeExample a{
     width: 141px;
@@ -313,6 +316,7 @@ pre{
     text-align: center;
     margin: 0 auto;
     margin-left: 10px; 
+    padding-top: 5px;
 }
 .myWorkExperience a{
     width: 141px;
@@ -362,6 +366,7 @@ pre{
     text-align: center;
     margin: 0 auto;
     margin-left: 10px; 
+    padding-top: 5px;
 }
 .myEducation a{
     width: 141px;
