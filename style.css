@@ -57,6 +57,8 @@ main{
 .myContacts{
     width: 260px;
     margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
 .contactsInfo:hover{
     background: rgba(3, 2, 3, 0.911);
