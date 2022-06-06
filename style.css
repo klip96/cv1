@@ -29,7 +29,6 @@ main{
     overflow: hidden;
     border: 5px solid #fff;
     box-shadow: 2px 1px 5px #999999;  
-    display: flex;
 }
 .leftColum{
     display: flex;
