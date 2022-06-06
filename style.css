@@ -87,6 +87,9 @@ main{
     flex-direction: column;
     width: 260px;
 }
+.text1{
+    margin-bottom: 5px;
+}
 .jook{
     margin-right: 10px;
     margin-left: 5px;
