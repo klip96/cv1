@@ -11,14 +11,15 @@ body {
 
 }
 .wrapper{
-    display: flex;
     max-width: 650px;
     margin: 0 auto;
-    gap: 10px;
+    
 }
 main{
     display: flex;
     flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
 }
 .myPhoto {
     width: 130px;
