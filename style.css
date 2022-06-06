@@ -90,6 +90,9 @@ main{
 .text1{
     margin-bottom: 5px;
 }
+li > a {
+    display: block;
+}
 .jook{
     margin-right: 10px;
     margin-left: 5px;
