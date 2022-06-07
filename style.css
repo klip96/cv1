@@ -58,7 +58,7 @@ main{
     width: 260px;
     margin: 0 auto;
     margin-top: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 .contactsInfo:hover{
     background: rgba(3, 2, 3, 0.911);
@@ -106,7 +106,8 @@ main{
     background: rgba(196, 196, 196, 0.35);
     border-radius: 10px;
     margin: 0 auto;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+    padding-top: 5px;
 }
 .knowInfo{
     margin: 0 auto;
@@ -131,7 +132,8 @@ main{
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+    padding-top: 5px;
 }
 .langInfo{
     margin: 0 auto;
@@ -151,13 +153,10 @@ main{
 }
 .hobbies{
     width: 95px;
-    height: 32px;
     background: rgba(196, 196, 196, 0.35);
     border-radius: 10px;
     margin-top: 0px;
-    text-align: left;
-    padding-left: 10px;
-    margin-bottom: 10px;
+    text-align: center;
 
 }
 .hobiesList{
