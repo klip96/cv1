@@ -55,6 +55,7 @@ main{
     text-decoration: none;
     color: #FFFFFF;
     align-items: center;
+    padding: 5px 0 5px 0;
 }
 .myContacts{
     width: 260px;
@@ -75,7 +76,7 @@ main{
     padding-bottom: 0px;
 }
 .contactsInfo{
-    display: flex;
+    display: block;
     width: 260px;
     height: 38px;
     background: rgba(196, 196, 196, 0.35);
@@ -90,13 +91,6 @@ main{
     display: flex;
     flex-direction: column;
     width: 260px;
-}
-
-.myInfo1 li{
-    cursor: pointer;
-}
-.myInfo1 li > a {
-    display: block;
 }
 
 .text1{
