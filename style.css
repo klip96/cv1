@@ -91,6 +91,14 @@ main{
     flex-direction: column;
     width: 260px;
 }
+
+.myInfo1 li{
+    cursor: pointer;
+}
+.myInfo1 li > a {
+    display: block;
+}
+
 .text1{
     margin-bottom: 5px;
 }
