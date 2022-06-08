@@ -50,6 +50,7 @@ main{
     
 }
 .myInfolinks{
+    display: flex;
     text-decoration: none;
     color: #FFFFFF;
     align-items: center;
