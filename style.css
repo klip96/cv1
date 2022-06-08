@@ -411,10 +411,11 @@ pre{
     display: flex;
     flex-wrap: wrap;
     text-decoration: none;
-    color: #fff7df;
+    color: #FFFFFF;
     background-color: #5f5f5f;
-    width: 625px;
+    width: 605px;
     margin: 0 auto;
     border-radius: 10px;
     margin-top: 5px;  
+    padding: 0 10px 0 10px;
 }
