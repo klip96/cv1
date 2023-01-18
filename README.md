@@ -1,5 +1,3 @@
 
-https://klip96.github.io/rsschool-cv/ 
-
-https://klip96.github.io/rsschool-cv/cv
+https://klip96.github.io/cv1/cv
 
