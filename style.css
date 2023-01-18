@@ -425,3 +425,10 @@ pre{
     align-items: center;
     justify-content: space-evenly;
 }
+.my_projects div{
+    max-width: 650px;
+    height: auto;
+    background-image: url(img/cozy_house.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
